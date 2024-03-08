@@ -2,7 +2,7 @@
 
 ## States
 
-| Code | State             | Topojson | Geojson |
+| Code | State             | TopoJSON | GeoJSON |
 |------|-------------------|----------|---------|
 | AP   | Andhra Pradesh    | ✅        | ✅      |
 | AR   | Arunachal Pradesh | ✅        | ✅      |
@@ -38,7 +38,7 @@
 
 ## Union Territories
 
-| Code | State                                       | TopoJson | GeoJson |
+| Code | State                                       | TopoJSON | GeoJSON |
 |------|---------------------------------------------|----------|---------|
 | AN   | Andaman and Nicobar Islands                | ✅        | ✅      |
 | CH   | Chandigarh                                  | ✅        | ✅      |
