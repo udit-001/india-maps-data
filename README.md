@@ -58,3 +58,7 @@ In the sections below, you'll find direct CDN links to both TopoJSON and GeoJSON
 | Delhi                                       | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps@9d59062/topojson/states/delhi.geojson) | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps@9d59062/geojson/states/delhi.geojson) |
 | Lakshadweep                                 | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps@9d59062/topojson/states/lakshadweep.geojson) | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps@9d59062/geojson/states/lakshadweep.geojson) |
 | Puducherry                                  | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps@9d59062/topojson/states/puducherry.geojson) | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps@9d59062/geojson/states/puducherry.geojson) |
+
+## Disclaimer
+
+The geospatial data provided in this repository is not created by the repository owner. It has been curated from publicly available sources on the internet for personal usage. The owner holds no liability for any misrepresentation in the maps. If you identify any discrepancies, please feel free to open a pull request along with an associated issue. Your contributions are highly appreciated!
