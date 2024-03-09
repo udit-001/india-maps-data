@@ -9,6 +9,14 @@ jobs:
  update-readme:
     runs-on: ubuntu-latest
     steps:
+      - name: Check if commit author is GitHub Actions
+        run: |
+            if [ "${{ github.actor }}" == "github-actions[bot]" ]; then
+            echo "Commit made by GitHub Actions bot. Skipping workflow."
+            exit 78  # Skip the workflow
+            else
+            echo "Commit made by user. Continue with the workflow."
+            fi
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
