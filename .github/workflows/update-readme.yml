@@ -1,0 +1,35 @@
+name: Update file links in README
+
+on:
+ push:
+    branches:
+      - main
+
+jobs:
+ update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GH_PAT }}
+
+      - name: Set up Git user
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+
+      - name: Get the latest commit ID
+        id: get_commit_id
+        run: echo "::set-output name=commit_id::$(git rev-parse --short HEAD)"
+
+      - name: Replace placeholder in README.md
+        run: |
+          sed -i "s/{{COMMIT-ID}}/${{ steps.get_commit_id.outputs.commit_id }}/g" README.md
+
+      - name: Commit and push changes
+        run: |
+          git add README.md
+          git commit -m "chore: update CDN links with latest commit hash"
+          git push
