@@ -8,7 +8,7 @@ In the sections below, you'll find direct CDN links to both TopoJSON and GeoJSON
 ## All India Maps
 
 - TopoJSON : [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps@0478aa8/topojson/india.json)
-- GeoJSON : [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps@0478aa8/geojson/india.json)
+- GeoJSON : [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps@0478aa8/geojson/india.geojson)
 
 ## States
 
