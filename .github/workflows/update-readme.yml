@@ -26,7 +26,8 @@ jobs:
 
       - name: Replace placeholder in README.md
         run: |
-          sed -i "s/{{COMMIT-ID}}/${{ steps.get_commit_id.outputs.commit_id }}/g" README.md
+        
+          sed -i "s/@[^/]*\//@${{ steps.get_commit_id.outputs.commit_id }}\//g" README.md
 
       - name: Commit and push changes
         run: |
