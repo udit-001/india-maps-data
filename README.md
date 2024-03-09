@@ -42,10 +42,9 @@
 
 | State                                       | TopoJSON | GeoJSON |
 |---------------------------------------------|----------|---------|
-| Andaman and Nicobar Islands                | ✅        | ✅      |
-| Chandigarh                                  | ✅        | ✅      |
-| Dadra & Nagar Haveli and Daman & Diu (Merged)| ✅        | ✅      |
-| Daman and Diu (Merged)                      | ✅        | ✅      |
-| Delhi                                       | ✅        | ✅      |
-| Lakshadweep                                 | ✅        | ✅      |
-| Puducherry                                  | ✅        | ✅      |
+| Andaman and Nicobar Islands                | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps@dummy/topojson/states/andaman-nicobar-islands.json) | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps@dummy/geojson/states/andaman-nicobar-islands.geojson) |
+| Chandigarh                                  | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps@dummy/topojson/states/chandigarh.geojson) | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps@dummy/geojson/states/chandigarh.geojson) |
+| Dadra & Nagar Haveli and Daman & Diu | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps@dummy/topojson/states/dnh-and-dd.json) | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps@dummy/geojson/states/dnh-and-dd.geojson) |
+| Delhi                                       | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps@dummy/topojson/states/delhi.geojson) | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps@dummy/geojson/states/delhi.geojson) |
+| Lakshadweep                                 | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps@dummy/topojson/states/lakshadweep.geojson) | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps@dummy/geojson/states/lakshadweep.geojson) |
+| Puducherry                                  | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps@dummy/topojson/states/puducherry.geojson) | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps@dummy/geojson/states/puducherry.geojson) |
