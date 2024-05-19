@@ -51,7 +51,7 @@ In the sections below, you'll find direct CDN links to both TopoJSON and GeoJSON
 
 | State                                       | TopoJSON | GeoJSON |
 |---------------------------------------------|----------|---------|
-| Andaman and Nicobar Islands                | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@db31a3e/topojson/states/andaman-nicobar-islands.json) | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@db31a3e/geojson/states/andaman-nicobar-islands.geojson) |
+| Andaman and Nicobar Islands                | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@db31a3e/topojson/states/andaman-and-nicobar-islands.json) | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@db31a3e/geojson/states/andaman-and-nicobar-islands.geojson) |
 | Chandigarh                                  | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@db31a3e/topojson/states/chandigarh.geojson) | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@db31a3e/geojson/states/chandigarh.geojson) |
 | Dadra & Nagar Haveli and Daman & Diu | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@db31a3e/topojson/states/dnh-and-dd.json) | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@db31a3e/geojson/states/dnh-and-dd.geojson) |
 | Delhi                                       | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@db31a3e/topojson/states/delhi.geojson) | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@db31a3e/geojson/states/delhi.geojson) |
