@@ -7,41 +7,41 @@ In the sections below, you'll find direct CDN links to both TopoJSON and GeoJSON
 
 ## All India Maps
 
-- TopoJSON : [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/topojson/india.json)
-- GeoJSON : [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/geojson/india.geojson)
+- TopoJSON : [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/topojson/india.json)
+- GeoJSON : [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/geojson/india.geojson)
 
 ## States
 
 | State             | TopoJSON                                                                                       | GeoJSON                                                                                       |
 |-------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| Andhra Pradesh    | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/topojson/states/andhra-pradesh.json)     | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/geojson/states/andhra-pradesh.geojson)   |
-| Arunachal Pradesh | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/topojson/states/arunachal-pradesh.json)  | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/geojson/states/arunachal-pradesh.geojson)|
-| Assam             | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/topojson/states/assam.json)              | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/geojson/states/assam.geojson)           |
-| Bihar             | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/topojson/states/bihar.json)              | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/geojson/states/bihar.geojson)           |
-| Chhattisgarh      | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/topojson/states/chhattisgarh.json)       | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/geojson/states/chhattisgarh.geojson)    |
-| Goa               | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/topojson/states/goa.json)                | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/geojson/states/goa.geojson)             |
-| Gujarat           | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/topojson/states/gujarat.json)            | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/geojson/states/gujarat.geojson)         |
-| Haryana           | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/topojson/states/haryana.json)            | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/geojson/states/haryana.geojson)         |
-| Himachal Pradesh  | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/topojson/states/himachal-pradesh.json)   | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/geojson/states/himachal-pradesh.geojson)|
-| Jharkhand         | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/topojson/states/jharkhand.json)          | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/geojson/states/jharkhand.geojson)       |
-| Karnataka         | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/topojson/states/karnataka.json)          | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/geojson/states/karnataka.geojson)       |
-| Kerala            | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/topojson/states/kerala.json)             | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/geojson/states/kerala.geojson)          |
-| Madhya Pradesh    | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/topojson/states/madhya-pradesh.json)     | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/geojson/states/madhya-pradesh.geojson) |
-| Maharashtra       | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/topojson/states/maharashtra.json)        | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/geojson/states/maharashtra.geojson)    |
-| Manipur           | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/topojson/states/manipur.json)            | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/geojson/states/manipur.geojson)        |
-| Meghalaya         | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/topojson/states/meghalaya.json)          | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/geojson/states/meghalaya.geojson)      |
-| Mizoram           | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/topojson/states/mizoram.json)            | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/geojson/states/mizoram.geojson)        |
-| Nagaland          | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/topojson/states/nagaland.json)           | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/geojson/states/nagaland.geojson)       |
-| Odisha            | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/topojson/states/odisha.json)             | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/geojson/states/odisha.geojson)         |
-| Punjab            | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/topojson/states/punjab.json)             | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/geojson/states/punjab.geojson)         |
-| Rajasthan         | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/topojson/states/rajasthan.json)          | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/geojson/states/rajasthan.geojson)      |
-| Sikkim            | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/topojson/states/sikkim.json)             | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/geojson/states/sikkim.geojson)         |
-| Tamil Nadu        | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/topojson/states/tamil-nadu.json)         | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/geojson/states/tamil-nadu.geojson)     |
-| Telangana         | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/topojson/states/telangana.json)          | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/geojson/states/telangana.geojson)      |
-| Tripura           | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/topojson/states/tripura.json)            | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/geojson/states/tripura.geojson)        |
-| Uttarakhand       | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/topojson/states/uttarakhand.json)        | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/geojson/states/uttarakhand.geojson)    |
-| Uttar Pradesh     | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/topojson/states/uttar-pradesh.json)      | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/geojson/states/uttar-pradesh.geojson)  |
-| West Bengal       | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/topojson/states/west-bengal.json)        | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/geojson/states/west-bengal.geojson)    |
+| Andhra Pradesh    | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/topojson/states/andhra-pradesh.json)     | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/geojson/states/andhra-pradesh.geojson)   |
+| Arunachal Pradesh | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/topojson/states/arunachal-pradesh.json)  | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/geojson/states/arunachal-pradesh.geojson)|
+| Assam             | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/topojson/states/assam.json)              | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/geojson/states/assam.geojson)           |
+| Bihar             | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/topojson/states/bihar.json)              | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/geojson/states/bihar.geojson)           |
+| Chhattisgarh      | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/topojson/states/chhattisgarh.json)       | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/geojson/states/chhattisgarh.geojson)    |
+| Goa               | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/topojson/states/goa.json)                | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/geojson/states/goa.geojson)             |
+| Gujarat           | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/topojson/states/gujarat.json)            | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/geojson/states/gujarat.geojson)         |
+| Haryana           | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/topojson/states/haryana.json)            | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/geojson/states/haryana.geojson)         |
+| Himachal Pradesh  | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/topojson/states/himachal-pradesh.json)   | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/geojson/states/himachal-pradesh.geojson)|
+| Jharkhand         | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/topojson/states/jharkhand.json)          | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/geojson/states/jharkhand.geojson)       |
+| Karnataka         | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/topojson/states/karnataka.json)          | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/geojson/states/karnataka.geojson)       |
+| Kerala            | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/topojson/states/kerala.json)             | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/geojson/states/kerala.geojson)          |
+| Madhya Pradesh    | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/topojson/states/madhya-pradesh.json)     | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/geojson/states/madhya-pradesh.geojson) |
+| Maharashtra       | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/topojson/states/maharashtra.json)        | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/geojson/states/maharashtra.geojson)    |
+| Manipur           | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/topojson/states/manipur.json)            | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/geojson/states/manipur.geojson)        |
+| Meghalaya         | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/topojson/states/meghalaya.json)          | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/geojson/states/meghalaya.geojson)      |
+| Mizoram           | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/topojson/states/mizoram.json)            | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/geojson/states/mizoram.geojson)        |
+| Nagaland          | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/topojson/states/nagaland.json)           | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/geojson/states/nagaland.geojson)       |
+| Odisha            | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/topojson/states/odisha.json)             | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/geojson/states/odisha.geojson)         |
+| Punjab            | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/topojson/states/punjab.json)             | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/geojson/states/punjab.geojson)         |
+| Rajasthan         | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/topojson/states/rajasthan.json)          | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/geojson/states/rajasthan.geojson)      |
+| Sikkim            | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/topojson/states/sikkim.json)             | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/geojson/states/sikkim.geojson)         |
+| Tamil Nadu        | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/topojson/states/tamil-nadu.json)         | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/geojson/states/tamil-nadu.geojson)     |
+| Telangana         | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/topojson/states/telangana.json)          | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/geojson/states/telangana.geojson)      |
+| Tripura           | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/topojson/states/tripura.json)            | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/geojson/states/tripura.geojson)        |
+| Uttarakhand       | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/topojson/states/uttarakhand.json)        | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/geojson/states/uttarakhand.geojson)    |
+| Uttar Pradesh     | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/topojson/states/uttar-pradesh.json)      | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/geojson/states/uttar-pradesh.geojson)  |
+| West Bengal       | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/topojson/states/west-bengal.json)        | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/geojson/states/west-bengal.geojson)    |
 
 
 
@@ -51,14 +51,14 @@ In the sections below, you'll find direct CDN links to both TopoJSON and GeoJSON
 
 | State                                       | TopoJSON | GeoJSON |
 |---------------------------------------------|----------|---------|
-| Andaman and Nicobar Islands                | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/topojson/states/andaman-and-nicobar-islands.json) | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/geojson/states/andaman-and-nicobar-islands.geojson) |
-| Chandigarh                                  | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/topojson/states/chandigarh.geojson) | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/geojson/states/chandigarh.geojson) |
-| Dadra & Nagar Haveli and Daman & Diu | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/topojson/states/dnh-and-dd.json) | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/geojson/states/dnh-and-dd.geojson) |
-| Delhi                                       | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/topojson/states/delhi.geojson) | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/geojson/states/delhi.geojson) |
-| Jammu and Kashmir | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/topojson/states/jammu-and-kashmir.json)  | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/geojson/states/jammu-and-kashmir.geojson) |
-| Ladakh | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/topojson/states/ladakh.json)  | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/geojson/states/ladakh.geojson)|
-| Lakshadweep                                 | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/topojson/states/lakshadweep.geojson) | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/geojson/states/lakshadweep.geojson) |
-| Puducherry                                  | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/topojson/states/puducherry.geojson) | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@b4c0c1e/geojson/states/puducherry.geojson) |
+| Andaman and Nicobar Islands                | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/topojson/states/andaman-and-nicobar-islands.json) | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/geojson/states/andaman-and-nicobar-islands.geojson) |
+| Chandigarh                                  | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/topojson/states/chandigarh.geojson) | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/geojson/states/chandigarh.geojson) |
+| Dadra & Nagar Haveli and Daman & Diu | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/topojson/states/dnh-and-dd.json) | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/geojson/states/dnh-and-dd.geojson) |
+| Delhi                                       | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/topojson/states/delhi.geojson) | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/geojson/states/delhi.geojson) |
+| Jammu and Kashmir | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/topojson/states/jammu-and-kashmir.json)  | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/geojson/states/jammu-and-kashmir.geojson) |
+| Ladakh | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/topojson/states/ladakh.json)  | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/geojson/states/ladakh.geojson)|
+| Lakshadweep                                 | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/topojson/states/lakshadweep.geojson) | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/geojson/states/lakshadweep.geojson) |
+| Puducherry                                  | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/topojson/states/puducherry.geojson) | [Link](https://cdn.jsdelivr.net/gh/udit-001/india-maps-data@440cf2e/geojson/states/puducherry.geojson) |
 
 ## Disclaimer
 
