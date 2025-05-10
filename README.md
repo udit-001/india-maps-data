@@ -1,6 +1,8 @@
 # India Maps
 This repository is a collection of detailed maps showcasing India's geographical data. It includes both GeoJSON and TopoJSON formats, providing whole-country maps as well as individual state maps with district-level boundaries.
 
+You can view all the maps interactively before using them at [indiamaps.netlify.app](https://indiamaps.netlify.app).
+
 ## Usage
 
 In the sections below, you'll find direct CDN links to both TopoJSON and GeoJSON files for each state and union territory in India. These links are provided for your convenience, enabling you to integrate the maps seamlessly into your applications without the need for manual downloads.
