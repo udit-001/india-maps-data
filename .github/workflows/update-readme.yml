@@ -17,8 +17,8 @@ jobs:
 
       - name: Set up Git user
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name github-actions[bot]
+          git config user.email github-actions[bot]@users.noreply.github.com
 
       - name: Get last commit author's username
         id: get_author
@@ -29,7 +29,7 @@ jobs:
 
       - name: Check if commit author is GitHub Actions
         run: |
-              if [ "${{ env.LAST_COMMIT_INFO }}" == "github-actions <github-actions@github.com>" ]; then
+              if [ "${{ env.LAST_COMMIT_INFO }}" == "github-actions[bot] <github-actions[bot]@users.noreply.github.com>" ]; then
               echo "Commit made by GitHub Actions bot. Skipping workflow."
               exit 78  # Skip the workflow
               else
